@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi I'm Zeltuv and I'm a self-taught Junior software developer from Turkiye.</p>
+Hi I'm **Zeltuv** and I'm a **self-taught** Junior software developer from Turkiye.
 
 ###
 
